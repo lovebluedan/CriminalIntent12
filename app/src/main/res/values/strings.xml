@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">请输入坏习惯的标题。</string>
+    <string name="crime_title_label">题目</string>
+    <string name="crime_details_label">日期</string>
+    <string name="crime_solved_label">解决</string>
+    <string name="date_pricker_title">坏习惯时间</string>
+</resources>
